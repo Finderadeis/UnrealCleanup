@@ -1,6 +1,9 @@
 ## What is it?
 A tool for simple cleanup operations like finding and removing unused assets, renaming and such.
 
+![Screenshot 2024-05-01 114128](https://github.com/Finderadeis/UnrealCleanup/assets/79834166/98231a60-7635-4f3b-b694-0b6d581352e1)
+
+
 This is a WIP but im trying to ensure that whats on the repo is always stable.
 
 ## Engine / Languages
