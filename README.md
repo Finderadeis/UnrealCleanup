@@ -15,7 +15,7 @@ This is a WIP but im trying to ensure that whats on the repo is always stable.
 
 ## How to install
 
-- Put the "UnrealCleanup folder into the plugin folder of the poject where you want to use the plugin
+- Put the "UnrealCleanup folder into the plugin folder of the project where you want to use the plugin
   
   this should be located in the root folder of your project. If you dont have it, just create one.
 
